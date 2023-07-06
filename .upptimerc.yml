@@ -15,6 +15,26 @@ status-website:
   # baseUrl: /stormix-status-page
   logoUrl: https://stormixmusic.com/assets/branding/logo/logo.png
   name: Stormix Status
+  theme: night
+  introTitle: "Stormix Status"
+  introMessage: "This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/PhoenixR49/stormix-status-page)."
+  metaTags:
+  - name: "title"
+    content: "Stormix Services Status"
+  - name: "description"
+    content: "This is a sample status page which uses real-time data from our GitHub repository."
+  - name: "description"
+    content: "This is a sample status page which uses real-time data from our GitHub repository."
+  - name: "color-scheme"
+    content: "dark light"
+  - name: "robots"
+    content: "index, nofollow"
+  robotsText: "User-agent: * \n Allow: /"
+  navbar:
+  - title: Status
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
