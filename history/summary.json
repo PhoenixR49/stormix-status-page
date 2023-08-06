@@ -13,7 +13,7 @@
     "time": 945,
     "timeDay": 833,
     "timeWeek": 808,
-    "timeMonth": 945,
+    "timeMonth": 957,
     "timeYear": 945,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://play.stormixmusic.com",
     "icon": "https://icons.duckduckgo.com/ip3/play.stormixmusic.com.ico",
     "slug": "stormix-smart-links",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 591,
-    "timeWeek": 652,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "time": 742,
+    "timeDay": 1246,
+    "timeWeek": 808,
+    "timeMonth": 750,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +49,7 @@
     "time": 1968,
     "timeDay": 2047,
     "timeWeek": 2181,
-    "timeMonth": 1968,
+    "timeMonth": 1982,
     "timeYear": 1968,
     "dailyMinutesDown": {}
   }
