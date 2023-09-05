@@ -1,7 +1,7 @@
 url: https://play.stormixmusic.com
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-04T23:16:05.368Z
+code: 500
+responseTime: 10788
+lastUpdated: 2023-09-05T23:15:55.697Z
 startTime: 2023-07-06T14:00:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
