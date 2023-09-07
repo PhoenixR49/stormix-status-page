@@ -40,17 +40,17 @@
     "url": "https://bio.stormixmusic.com",
     "icon": "https://icons.duckduckgo.com/ip3/bio.stormixmusic.com.ico",
     "slug": "stormix-bio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3379,
-    "timeDay": 5070,
-    "timeWeek": 4793,
-    "timeMonth": 4867,
-    "timeYear": 3379,
+    "time": 3399,
+    "timeDay": 4944,
+    "timeWeek": 4795,
+    "timeMonth": 4865,
+    "timeYear": 3399,
     "dailyMinutesDown": {}
   }
 ]
